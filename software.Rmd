@@ -1,23 +1,28 @@
 ---
 title: "Software"
 ---
-### CRAN Packages
-
-#### `gtsummary`
-I am a contributor to the [gtsummary](http://www.danieldsjoberg.com/gtsummary/) package, which you can use to create reproducible, publication-ready analytical tables in R. 
-
-The gtsummary package was recently featured on the [RStudio Education blog](https://education.rstudio.com/blog/2020/07/gtsummary/), and you can learn more from my RLadies NYC talk [here](http://mljaniczek.github.io/gtsummary-presentation-rladies/#1). 
 
 ### Github Packages
 
 #### `spikeyglass`
 I collaborated with Dr. Richard Li from UC Santa Cruz to convert his method "Bayesian Joint Spike-and-slab Graphical Lasso" (SSJGL) into an easy-to-use R package called [`spikeyglass`](https://mljaniczek.github.io/spikeyglass/). See [here](https://mljaniczek.github.io/ssjgl-tutorial/) for an applied tutorial using this method on real-world metabolomics data. 
 
+#### `multiGGMr`
+I collaborated with Dr. Christine Peterson from Rice to implement multiGGM, a fully-Bayesian method to jointly estimate group-specific sparse precision matrices. See the [package website](https://mljaniczek.github.io/multiGGMr/) for more details. 
+
 #### `nebula`
 I maintain the [nebula](https://nebula-group.github.io/nebula/index.html) package, which implements network-based latent-Dirichlet subtype analysis. 
 
 #### `riskybiz`
 I am the author and maintainer of the [riskybiz](https://mljaniczek.github.io/riskybiz/) package which contains wrapper and helper functions to get competing risks regression model results from the {cmprsk} package.
+
+### CRAN Packages
+
+#### `gtsummary`
+I am a contributor to the [gtsummary](http://www.danieldsjoberg.com/gtsummary/) package, which you can use to create reproducible, publication-ready analytical tables in R. 
+
+The gtsummary package was featured on the [RStudio Education blog](https://education.rstudio.com/blog/2020/07/gtsummary/), and you can learn more from my RLadies NYC talk [here](http://mljaniczek.github.io/gtsummary-presentation-rladies/#1). 
+
 
 
 ### Shiny Apps

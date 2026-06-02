@@ -1,9 +1,0 @@
----
-title: "Software"
----
-
-### X-Linked Disease Trait Generation Simulator
-
-I created a Shiny app to look at proportions of genotypes for an X-linked disease trait (such as color-blindness). Explore the app to see how many generations it takes for the population to reach equilibrium (it's surprisingly not many!), and how the equilibrium proportion changes based on the initial population. 
-
-The app can be found [here](https://margarethannum.shinyapps.io/xlinked_trait_generation_simulator/)! 

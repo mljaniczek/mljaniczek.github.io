@@ -2,7 +2,9 @@
 title: "Research"
 ---
 
-I am interested in using machine learning methods for high-dimensional biological classification problems. In  in [Raji Balasubramanian](https://raji-lab.github.io/)'s lab, I am working on classifying bacterial infections using metabolomics data. We also collaborate on projects using metabolomics data from the UKBiobank. Additionally I am interested in joint estimation of graphical models and their application to correlated biological data. 
+I am interested in using machine learning methods for high-dimensional biological classification problems. In  in [Raji Balasubramanian](https://raji-lab.github.io/)'s lab, I am working on classifying bacterial infections using metabolomics data. We also collaborate on projects using metabolomics data from the UKBiobank. Additionally I am interested in joint estimation of graphical models and their application to correlated biological data. Finally I am also exploring synthetic transfer learning to work with GC/DMS data. Please email me if you are interested in collaborating! 
+
+In all things I aim to make tools or guides to actually *implement* the methods in user-friendly way. See available [software](https://mljaniczek.github.io/software/). 
 
 For an updated list of my publications, please visit [Google Scholar](https://scholar.google.com/citations?user=AhXbVY0AAAAJ&hl=en&citsig=AMD79orj40uaLaTKXYTrF7m-D9Zd7ZGUjQ).
 
